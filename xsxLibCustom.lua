@@ -78,7 +78,7 @@ local drag = function(obj, latency)
 end
 
 local library = {
-    version = "3.0",
+    version = "4.0",
     title = title or "FreakiExploit " .. tostring(math.random(1,366)),
     fps = 0,
     rank = "private"
